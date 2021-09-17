@@ -1,0 +1,16 @@
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/bin/Debug/net5.0/Coresystems.Task.deps.json
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/bin/Debug/net5.0/Coresystems.Task.runtimeconfig.json
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/bin/Debug/net5.0/Coresystems.Task.runtimeconfig.dev.json
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/bin/Debug/net5.0/Coresystems.Task.dll
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/bin/Debug/net5.0/ref/Coresystems.Task.dll
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/bin/Debug/net5.0/Coresystems.Task.pdb
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/obj/Debug/net5.0/Coresystems.Task.csprojAssemblyReference.cache
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/obj/Debug/net5.0/Coresystems.Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/obj/Debug/net5.0/Coresystems.Task.AssemblyInfoInputs.cache
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/obj/Debug/net5.0/Coresystems.Task.AssemblyInfo.cs
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/obj/Debug/net5.0/Coresystems.Task.csproj.CoreCompileInputs.cache
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/obj/Debug/net5.0/Coresystems.Task.dll
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/obj/Debug/net5.0/ref/Coresystems.Task.dll
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/obj/Debug/net5.0/Coresystems.Task.pdb
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/obj/Debug/net5.0/Coresystems.Task.genruntimeconfig.cache
+/Users/nihatakin/Documents/Workspace/Playground/Coresystems/Coresystems.Task/Coresystems.Task/bin/Debug/net5.0/FileContainer/Text.txt
